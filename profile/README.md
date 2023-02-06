@@ -1,5 +1,5 @@
 <p align="middle" >
-  <img width="200px;" src=""/>
+  <img width="200px;" src="https://user-images.githubusercontent.com/62178788/216916936-4ff2970f-6d8c-45e4-a306-1b6be76f2f70.svg"/>
 </p>
 <h1 align="middle">아띠즈</h1>
 <p align="middle">예비작가들의 예술작품을 저렴하게’ 라는 슬로건 아래 웹사이트 개발 프로젝트를 진행하는 팀입니다.</p>
