@@ -113,4 +113,5 @@
 - [Frontend repository](https://github.com/Att-ies/frontend)
 - [Backend repository](https://github.com/Att-ies/backend)
 - [Notion](https://www.notion.so/guesung/Atties-006329d5eca0417a889a6fcf7ebe43d3?pvs=4)
----
+<!--[![Netlify Status](https://api.netlify.com/api/v1/badges/0d1a3af0-370b-436d-b41d-545af4adf856/deploy-status)](https://app.netlify.com/sites/attiess/deploys)--!>
+
