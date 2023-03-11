@@ -8,42 +8,43 @@
 
 졸업전시회까지 치열하게 준비하지만 막상 전시회가 끝난 후 미대생의 졸업작품이 일회성으로 끝나고 방치,폐기된다는 점이 아쉬웠습니다. 졸업작품을 거래할 수 있는 플랫폼을 만들어 컬렉터는 저렴한 비용으로 구입할 수 있고 미대생들은 경제적 수입과 함께 자신의 작품을 세상에 알릴 수 있는 소중한 기회를 갖게하는 것이 아띠즈의 목표입니다.
 
-
 ## 팀원 👨‍👨‍👧‍👧👩‍👦‍👦
 
-|Frontend|Frontend|Frontend|Backend|Backend|Backend|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://avatars.githubusercontent.com/u/62178788?v=4" width=400px alt="Peter"/> | <img src="https://avatars.githubusercontent.com/u/92621861?v=4" width=400px alt="Jacob"/> |  <img src="https://user-images.githubusercontent.com/62178788/217483981-79c57b54-7f2a-4b8d-921a-38cfe3df1df0.png" width=400px alt="Max"/>  | <img src="https://avatars.githubusercontent.com/u/71515740?v=4" width=400px alt="Carrick"> |  <img src="https://avatars.githubusercontent.com/u/83302344?v=4" width=400px alt="Choo">   | <img src="https://user-images.githubusercontent.com/62178788/217484706-f58f77bd-4554-4852-9d8e-506f465ea41d.jpeg" width=400px alt="Poo"> |
-| [Peter](https://github.com/gueit214)  | [Jacob](https://github.com/joooonis)  | [Max](https://github.com/GeonwooShin) |  [Carrick](https://github.com/Gyubam)  | [Choo](https://github.com/ChooSeoyeon) | [Poo](https://github.com/junyoung-c) |
-
+|                                         Frontend                                          |                                         Frontend                                          |                                                                 Frontend                                                                 |                                          Backend                                           |                                         Backend                                         |                                                                 Backend                                                                  |
+| :---------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://avatars.githubusercontent.com/u/62178788?v=4" width=400px alt="Peter"/> | <img src="https://avatars.githubusercontent.com/u/92621861?v=4" width=400px alt="Jacob"/> | <img src="https://user-images.githubusercontent.com/62178788/217483981-79c57b54-7f2a-4b8d-921a-38cfe3df1df0.png" width=400px alt="Max"/> | <img src="https://avatars.githubusercontent.com/u/71515740?v=4" width=400px alt="Carrick"> | <img src="https://avatars.githubusercontent.com/u/83302344?v=4" width=400px alt="Choo"> | <img src="https://user-images.githubusercontent.com/62178788/217484706-f58f77bd-4554-4852-9d8e-506f465ea41d.jpeg" width=400px alt="Poo"> |
+|                           [Peter](https://github.com/gueit214)                            |                           [Jacob](https://github.com/joooonis)                            |                                                  [Max](https://github.com/GeonwooShin)                                                   |                            [Carrick](https://github.com/Gyubam)                            |                         [Choo](https://github.com/ChooSeoyeon)                          |                                                   [Poo](https://github.com/junyoung-c)                                                   |
 
 ## Demo 🚀
 
-|회원가입, 로그인|소셜 로그인|아이디 찾기, 비밀번호 찾기|
-|:-:|:-:|:-:|
-|<img src=https://i.imgur.com/VVWOO8N.gif>|<img src=https://i.imgur.com/eBGYJOS.gif>|<img src=https://i.imgur.com/XNYLOJ5.gif>|
-|<b>프로필 확인 및 수정</b>|<b>작가 전환</b>|<b>작가 프로필 수정</b>|
-|<img src=https://i.imgur.com/8d0ShLm.gif>|<img src=https://i.imgur.com/QQqFxsk.gif>|<img src=https://i.imgur.com/8DdO2Sj.gif>|
-|<b>작품 등록</b>|<b>작품 검색, 픽하기, 찜하기</b>|<b>응찰하기</b>|
-|<img src=https://i.imgur.com/HDCrUWW.gif>|<img src=https://i.imgur.com/c9MQc21.gif>|<img src=https://i.imgur.com/yx6pzPh.gif>|
-|<b>픽 리스트, 찜 리스트</b>|<b>홈 화면</b>|<b>전시회 화면</b>|
-|<img src=https://i.imgur.com/N4YkbpU.gif>|<img src=https://i.imgur.com/HrnHKZD.gif>|<img src=https://i.imgur.com/0qFzuKI.gif>|
-|<b>1대1 문의</b>|<b>나의 경매, 판매 활동</b>|<b>비밀번호 변경, 회원 탈퇴</b>|
-|<img src=https://i.imgur.com/5ylGCYS.gif>|<img src=https://i.imgur.com/NjDepQz.gif>|<img src=https://i.imgur.com/V5NBytW.gif>|
+|             회원가입, 로그인              |                소셜 로그인                |        아이디 찾기, 비밀번호 찾기         |
+| :---------------------------------------: | :---------------------------------------: | :---------------------------------------: |
+| <img src=https://i.imgur.com/VVWOO8N.gif> | <img src=https://i.imgur.com/eBGYJOS.gif> | <img src=https://i.imgur.com/XNYLOJ5.gif> |
+|        <b>프로필 확인 및 수정</b>         |             <b>작가 전환</b>              |          <b>작가 프로필 수정</b>          |
+| <img src=https://i.imgur.com/8d0ShLm.gif> | <img src=https://i.imgur.com/QQqFxsk.gif> | <img src=https://i.imgur.com/8DdO2Sj.gif> |
+|             <b>작품 등록</b>              |     <b>작품 검색, 픽하기, 찜하기</b>      |              <b>응찰하기</b>              |
+| <img src=https://i.imgur.com/HDCrUWW.gif> | <img src=https://i.imgur.com/c9MQc21.gif> | <img src=https://i.imgur.com/yx6pzPh.gif> |
+|        <b>픽 리스트, 찜 리스트</b>        |              <b>홈 화면</b>               |            <b>전시회 화면</b>             |
+| <img src=https://i.imgur.com/N4YkbpU.gif> | <img src=https://i.imgur.com/HrnHKZD.gif> | <img src=https://i.imgur.com/0qFzuKI.gif> |
+|             <b>1대1 문의</b>              |        <b>나의 경매, 판매 활동</b>        |      <b>비밀번호 변경, 회원 탈퇴</b>      |
+| <img src=https://i.imgur.com/5ylGCYS.gif> | <img src=https://i.imgur.com/NjDepQz.gif> | <img src=https://i.imgur.com/V5NBytW.gif> |
 
-|채팅|
-|:-:|
-|<img src=https://i.imgur.com/5OfYxyK.gif>|
+|                   채팅                    |
+| :---------------------------------------: |
+| <img src=https://i.imgur.com/5OfYxyK.gif> |
 
 ## 프로젝트 기술스택 💡
 
 #### 프론트엔드
+
 ![](https://i.imgur.com/KN4SEfW.png)
 
 #### 백엔드
+
 ![](https://i.imgur.com/PHbQSIB.png)
 
 ## 프로젝트 아키텍쳐 🏛
+
 ![](https://i.imgur.com/JpywMLl.png)
 
 ## 팀 문화 🏠
@@ -96,15 +97,12 @@
 
 ### 10. 배워가는 프로젝트
 
-- 모르는 것이 있다면 라이트닝톡! 
+- 모르는 것이 있다면 라이트닝톡!
 - 가능 여부를 묻고 허들을 걸어주세요.
-
 
 ### 11. 함께 만들어가는 컨벤션
 
 - 아직 정하지 않은 컨벤션이 있다면 함께 의논해요.
-
-
 
 ## 링크 🔗
 
@@ -113,5 +111,9 @@
 - [Frontend repository](https://github.com/Att-ies/frontend)
 - [Backend repository](https://github.com/Att-ies/backend)
 - [Notion](https://www.notion.so/guesung/Atties-006329d5eca0417a889a6fcf7ebe43d3?pvs=4)
-<!--[![Netlify Status](https://api.netlify.com/api/v1/badges/0d1a3af0-370b-436d-b41d-545af4adf856/deploy-status)](https://app.netlify.com/sites/attiess/deploys)--!>
 
+## Design 🎨
+
+<image src='../images/장표_기능.jpg'/>
+
+<!-- [![Netlify Status](https://api.netlify.com/api/v1/badges/0d1a3af0-370b-436d-b41d-545af4adf856/deploy-status)](https://app.netlify.com/sites/attiess/deploys)--!>
